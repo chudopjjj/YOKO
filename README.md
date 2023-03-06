@@ -1,2 +1,3 @@
 # YOKO
  
+yoko is an esp32 based project about beating heart...
